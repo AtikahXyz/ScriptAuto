@@ -1,0 +1,17 @@
+requests
+beautifulsoup4
+pytz
+faker
+fake_email
+rich
+fake-useragent
+espeakng
+stdiomask
+pillow
+cloudscraper
+requests
+pytz
+faker
+beautifulsoup4
+rich
+cloudscraper

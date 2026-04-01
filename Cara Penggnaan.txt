@@ -1,0 +1,15 @@
+Cara Penggunaan script Akbar Dev
+
+CommandNya Salin 1Per satu
+pkg update && pkg upgrade
+pkg install python
+pkg install libjpeg-turbo
+pip install pillow
+termux-setup-storage
+cd /sdcard/NamaFolder
+pip install -r requirements.txt
+python run.py
+
+ISI PP BAGIAN DATA/PINTERST.TXT
+
+BELI TOOLS DI AKBAR AJAH 085138231057
